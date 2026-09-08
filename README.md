@@ -62,6 +62,7 @@ status: "🟢 Disponível para aprender e colaborar"
 
 ![Git](https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=00fff2)
 ![GitHub](https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=00fff2)
+![Eclipse](https://img.shields.io/badge/Eclipse-0f2027?style=for-the-badge&logo=eclipseide&logoColor=00fff2)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0f2027?style=for-the-badge&logo=visualstudiocode&logoColor=00fff2)
 
 </div>

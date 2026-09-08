@@ -167,7 +167,7 @@ lucas@dev-system:~$ _
 <a href="https://github.com/lucasrochafortuna-ui" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=00fff2" />
 </a>
-<a href="www.linkedin.com/in/lucas-rocha-10ba7b409" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-rocha-10ba7b409/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00fff2" />
 </a>
 <a href="https://www.instagram.com/lucas_rochafs/" target="_blank">

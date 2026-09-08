@@ -170,10 +170,10 @@ lucas@dev-system:~$ _
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00fff2" />
 </a>
-<a href="#" target="_blank">
+<a href="www.linkedin.com/in/lucas-rocha-10ba7b409" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=00fff2" />
 </a>
-<a href="#" target="_blank">
+<a href="https://www.instagram.com/lucas_rochafs/" target="_blank">
   <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00fff2" />
 </a>
 

@@ -23,7 +23,7 @@
 <img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ```yaml
-sistema: "GitHub_Profile.exe"
+sistema: "Fedora (Linux)"
 usuário: "Lucas Rocha Fortuna Silva"
 função: "Desenvolvedor(a) em formação"
 nível: "Iniciante // Modo Aprendizado Ativo"
@@ -130,7 +130,6 @@ lucas@dev-system:~$ _
 <div align="center">
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=lucasrochafortuna-ui&show_icons=true&theme=dark&bg_color=0f2027&title_color=00fff2&text_color=c9d1d9&icon_color=00fff2&border_color=00fff2&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrochafortuna-ui&layout=compact&theme=dark&bg_color=0f2027&title_color=00fff2&text_color=c9d1d9&border_color=00fff2&hide_border=false" />
 
 <br/>
 
@@ -149,7 +148,6 @@ lucas@dev-system:~$ _
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚙️ Dica: a animação da cobra é gerada automaticamente por um workflow do GitHub Actions ([platane/snk](https://github.com/Platane/snk)) rodando no seu próprio repositório de perfil. Configure-o para que a imagem acima seja atualizada com seus dados reais.
 
 ---
 

@@ -127,7 +127,7 @@ lucas@dev-system:~$ _
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasrochafortuna-ui&show_icons=true&theme=dark&bg_color=0f2027&title_color=00fff2&text_color=c9d1d9&icon_color=00fff2&border_color=00fff2&hide_border=false" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=lucasrochafortuna-ui&show_icons=true&theme=dark&bg_color=0f2027&title_color=00fff2&text_color=c9d1d9&icon_color=00fff2&border_color=00fff2&hide_border=false" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrochafortuna-ui&layout=compact&theme=dark&bg_color=0f2027&title_color=00fff2&text_color=c9d1d9&border_color=00fff2&hide_border=false" />
 
 <br/>
@@ -137,14 +137,6 @@ lucas@dev-system:~$ _
 <br/>
 
 
-</div>
-
----
-
-## `<` TROPHIES `/>`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lucasrochafortuna-ui&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&row=1&column=6" />
 </div>
 
 ---

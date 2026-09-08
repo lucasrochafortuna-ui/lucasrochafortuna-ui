@@ -129,7 +129,7 @@ lucas@dev-system:~$ _
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=lucasrochafortuna-ui&show_icons=true&theme=dark&bg_color=0f2027&title_color=00fff2&text_color=c9d1d9&icon_color=00fff2&border_color=00fff2&hide_border=false" />
+
 
 <br/>
 

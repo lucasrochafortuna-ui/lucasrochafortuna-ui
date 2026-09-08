@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER PRINCIPAL -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00ffe7&height=250&section=header&text=LUCAS%20ROCHA%20FORTUNA&fontSize=42&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=%3C%20SYSTEM%20ONLINE%20%2F%2F%20INITIALIZING%20DEV.PROFILE%20%3E&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00ffe7&height=250&section=header&text=LUCAS%20ROCHA%20FORTUNA&fontSize=42&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=%C2%BB%20SYSTEM%20ONLINE%20%2F%2F%20INITIALIZING%20DEV.PROFILE%20%C2%AB&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -24,7 +24,7 @@
 
 ```yaml
 sistema: "GitHub_Profile.exe"
-usuário: "Lucas Rocha Fortuna"
+usuário: "Lucas Rocha Fortuna Silva"
 função: "Desenvolvedor(a) em formação"
 nível: "Iniciante // Modo Aprendizado Ativo"
 linguagens_carregadas:
@@ -35,6 +35,8 @@ linguagens_carregadas:
 ferramentas_ativas:
   - Git
   - GitHub
+  - Eclipse
+  - VS code
 objetivo_atual: "Evoluir habilidades e construir projetos reais"
 status: "🟢 Disponível para aprender e colaborar"
 ```

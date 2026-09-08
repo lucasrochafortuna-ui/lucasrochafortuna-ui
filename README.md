@@ -132,11 +132,10 @@ lucas@dev-system:~$ _
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasrochafortuna-ui&theme=dark&background=0f2027&ring=00fff2&fire=00fff2&currStreakLabel=00fff2&border=00fff2" />
+<img src="https://streak-stats.herokuapp.com/?user=lucasrochafortuna-ui&theme=dark&background=0f2027&ring=00fff2&fire=00fff2&currStreakLabel=00fff2&border=00fff2" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lucasrochafortuna-ui&theme=react-dark&bg_color=0f2027&color=00fff2&line=00fff2&point=ffffff&hide_border=true" />
 
 </div>
 
